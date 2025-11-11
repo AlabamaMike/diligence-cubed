@@ -10,3 +10,5 @@ export * from './RBACService';
 export * from './ConfidenceScoringService';
 export * from './NaturalLanguageQueryService';
 export * from './SharePointExportService';
+export * from './ContextPersistenceService';
+export * from './InterAgentCommunicationService';

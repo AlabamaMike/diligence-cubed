@@ -12,3 +12,7 @@ export * from './NaturalLanguageQueryService';
 export * from './SharePointExportService';
 export * from './ContextPersistenceService';
 export * from './InterAgentCommunicationService';
+export * from './TemplateService';
+export * from './RedFlagEscalationService';
+export * from './ApprovalWorkflowService';
+export * from './SecurityService';
